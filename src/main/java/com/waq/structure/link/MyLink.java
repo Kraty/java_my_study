@@ -1,4 +1,4 @@
-package com.waq.structure;
+package com.waq.structure.link;
 
 /**
  * 自己写一个链表

@@ -1,4 +1,4 @@
-package com.waq.structure;
+package com.waq.structure.link;
 
 public class Node {
 
